@@ -1,0 +1,15 @@
+C:\Users\ILYA\Desktop\c#course\bin\Debug\net6.0\c#course.exe
+C:\Users\ILYA\Desktop\c#course\bin\Debug\net6.0\c#course.deps.json
+C:\Users\ILYA\Desktop\c#course\bin\Debug\net6.0\c#course.runtimeconfig.json
+C:\Users\ILYA\Desktop\c#course\bin\Debug\net6.0\c#course.dll
+C:\Users\ILYA\Desktop\c#course\bin\Debug\net6.0\c#course.pdb
+C:\Users\ILYA\Desktop\c#course\obj\Debug\net6.0\c#course.csproj.AssemblyReference.cache
+C:\Users\ILYA\Desktop\c#course\obj\Debug\net6.0\c#course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILYA\Desktop\c#course\obj\Debug\net6.0\c#course.AssemblyInfoInputs.cache
+C:\Users\ILYA\Desktop\c#course\obj\Debug\net6.0\c#course.AssemblyInfo.cs
+C:\Users\ILYA\Desktop\c#course\obj\Debug\net6.0\c#course.csproj.CoreCompileInputs.cache
+C:\Users\ILYA\Desktop\c#course\obj\Debug\net6.0\c#course.dll
+C:\Users\ILYA\Desktop\c#course\obj\Debug\net6.0\refint\c#course.dll
+C:\Users\ILYA\Desktop\c#course\obj\Debug\net6.0\c#course.pdb
+C:\Users\ILYA\Desktop\c#course\obj\Debug\net6.0\c#course.genruntimeconfig.cache
+C:\Users\ILYA\Desktop\c#course\obj\Debug\net6.0\ref\c#course.dll
